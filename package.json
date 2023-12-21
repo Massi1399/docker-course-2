@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Massi1399/docker-course-2"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
